@@ -1,25 +1,38 @@
-# Final Project and Deployment
+Real Estate Website
+ Project Overview
+This is a modern real estate website showcasing apartments, services, pricing,
+investment stages, and contact forms. Built using HTML, CSS, Bootstrap, 
+and JavaScript, it provides a responsive, interactive experience for users.
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+🎯 Features
+✅ Navigation Bar – Smooth scrolling to different sections
+✅ Hero Section – Overview of real estate investment 
+✅ Gallery – Scrollable section showcasing apartment images
+✅ Services – Highlights features like security, environmental solutions, guaranteed income
+✅ Pricing Plans – Apartment costs for different categories
+✅ Investment Stages – Guides users through the investment process 
+✅ Dark Mode – Theme toggle feature for better accessibility 
+✅ Contact Form – Collects client inquiries with form validation
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+🏗️ Technologies Used
+🔹 HTML5 – Structuring the content 
+🔹 CSS3 – Styling and animations 
+🔹 Bootstrap 5 – Responsive design & components 
+🔹 JavaScript – Interactive elements like dark mode & form validation
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+🚀 Deployment on Vercel
+My website is live on Vercel... Access it here: 🔗 LIVE LINK ()
 
-## Tasks
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
 
-Good luck and happy coding! 🚀💻
+✅ Automatic updates when you push to GitHub ✅ Fast performance with Vercel’s CDN
+
+📂 File Structure
+/
+│── images/        # Contains all gallery images & icons  
+│── style.css      # Main stylesheet for website design  
+│── script.js      # JavaScript file for interactivity  
+│── index.html     # Main webpage structure  
+│── README.md      # Documentation  
+
+
